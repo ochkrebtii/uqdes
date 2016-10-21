@@ -1,0 +1,1 @@
+Code to reproduce figures from the paper "Bayesian Uncertainty Quantification for Differential Equations" by Chkrebtii, Campbell, Calderhead, Girolami. Run the .m file named after the required figure. Code for additional figures is provided in the other directories of this repository.
